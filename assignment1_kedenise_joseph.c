@@ -132,7 +132,7 @@ double calculateWidth() {
     printf("Point value of x1 = %.2lf and y1 = %.2lf\n", x1, y1);
     printf("Point value of x2 = %.2lf and y2 = %.2lf\n", x2, y2);
     
-    // Calculate the width 
+    // Calculating the width 
     double width = fabs(x2 - x1);
     
     // priniting the results
